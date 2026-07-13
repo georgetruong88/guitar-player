@@ -1,5 +1,10 @@
 # Guitar Player
 
+[![Lint](https://github.com/georgetruong88/guitar-player/actions/workflows/lint.yml/badge.svg)](https://github.com/georgetruong88/guitar-player/actions/workflows/lint.yml)
+[![Build](https://github.com/georgetruong88/guitar-player/actions/workflows/build.yml/badge.svg)](https://github.com/georgetruong88/guitar-player/actions/workflows/build.yml)
+[![License: MIT](https://img.shields.io/github/license/georgetruong88/guitar-player)](LICENSE)
+[![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/georgetruong88/guitar-player/master/coverage-badge.json)](https://github.com/georgetruong88/guitar-player/actions/workflows/coverage.yml)
+
 Strum chords and pick single strings with your laptop keyboard. A pygame +
 numpy toy synth in the same family as [keyboard-piano](../keyboard-piano) —
 every string is a real Karplus-Strong plucked-string model, not a sample.
