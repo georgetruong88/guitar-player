@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Guitar Player
+Comment=Strum chords and pick strings with your laptop keyboard
+Exec=python3 /home/kali/Projects/guitar-player/guitar.py
+Path=/home/kali/Projects/guitar-player
+Terminal=false
+Categories=AudioVideo;Audio;Music;
